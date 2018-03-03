@@ -4,7 +4,9 @@ const options = {
   style: {
     width: '60%',
     float: 'left',
-    marginLeft:'30px'
+    marginLeft:'30px',
+    marginRight:'50px',
+    marginTop:'40px'
   }
 };
 

@@ -1,0 +1,22 @@
+.summary-table{
+    border: 1px  solid #A2A9B1;
+    background-color: #F8F9FA;
+    padding: 1px;
+    font-size: 14px;
+    margin-top: 60px;
+  }
+  
+  .summary-table thead th{
+    background-color: #B0C4DE;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 16px;
+  }
+  
+  .summary-table tbody tr:first-child{  /*solo para la primera fila el primer hijo*/
+    text-align: center;
+  }
+  
+  .summary-table tbody th {
+    text-align: left;
+  }
