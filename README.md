@@ -1,7 +1,7 @@
- GRACE HOPPER REACT
+# GRACE HOPPER REACT
 Repetir el ejercicio de Grace Hopper pero esta ocasión lo haremos con la librería React.
 
-#Componentes
+## Componentes
 
 * El primer componente es el header donde estara el título (title.js), donde se importa el title.css donde se encuentran los estilos.
 
