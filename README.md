@@ -31,7 +31,7 @@ import logo from './grace-hopper.jpg';
 import './second.css';
 
 ```
-##Desarrollado con ..
+## Desarrollado con ..
 `React` `HTML5` `CSS3`
 
 
